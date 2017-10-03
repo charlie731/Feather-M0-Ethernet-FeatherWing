@@ -1,0 +1,2 @@
+// Archivo EthernetClient.cpp
+// Linea 40 Cambiado return -1; Original return 0; 
