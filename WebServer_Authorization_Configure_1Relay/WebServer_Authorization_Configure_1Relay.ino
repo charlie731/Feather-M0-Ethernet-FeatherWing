@@ -17,7 +17,7 @@ byte SUB1 = 255; // primera parte de la SUBNETMASK
 byte SUB2 = 255; // la segunda parte de la SUBNETMASK
 byte SUB3 = 255; // la parte thirth del SUBNETMASK
 byte SUB4 = 0; // la cuarta parte de la SUBNETMASK
-byte SET = 0;
+byte SET = 0; //
 
 // Configurar el EthernetShield
 byte mac [] = {0xDE, 0xAD, 0xBE, 0xEF, 0xFE, 0xED};
